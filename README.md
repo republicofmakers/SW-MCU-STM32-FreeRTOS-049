@@ -1,4 +1,4 @@
-# SW-XIAO-Arduino-FreeRTOS-049
+# SW-MCU-STM32-FreeRTOS-049
 
 Here is simple code for FreeRTOS. You can set multitasks easily with FreeRTOS.
 
